@@ -9,7 +9,7 @@ We pack audio files for individual books into separate zip files, to make it eas
 
 They are created for running verse-by-verse audio features available in <a href="https://github.com/eliranwong/UniqueBible">Unique Bible App</a>.
 
-The following Unique Bible App modules are integrated to use audio files in this repository:
+The following Unique Bible App modules are integrated to use these audio files:
 
 * OHGB - Open Hebrew Greek Bible
 * OHGBi - Open Hebrew Greek Bible (interlinear)
@@ -24,3 +24,13 @@ The following Unique Bible App modules are integrated to use audio files in this
 For the same reading but with slower speaking rate, go to:
 
 https://github.com/eliranwong/MP3_OpenHebrewGreekBible_slow
+
+# About OHGB
+
+Open Hebrew Bible project:
+
+https://github.com/eliranwong/OpenHebrewBible
+
+Open Greek New Testament project:
+
+https://github.com/eliranwong/OpenGNT
