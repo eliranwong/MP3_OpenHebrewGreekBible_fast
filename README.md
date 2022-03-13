@@ -1,5 +1,7 @@
 # MP3_OpenHebrewGreekBible (faster rate)
-MP3 Audio Bible - Open Hebrew Greek Bible; created for <a href="https://github.com/eliranwong/UniqueBible">Unique Bible App</a>
+MP3 Audio Bible - Open Hebrew Greek Bible
+
+Audio files provided here are created with text-to-speech features integrated with <a href="https://github.com/eliranwong/UniqueBible">Unique Bible App</a>.
 
 Verse-by-Verse MP3 Audio Bible - Open Hebrew Greek Bible.
 
